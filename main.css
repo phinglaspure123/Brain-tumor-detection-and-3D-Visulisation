@@ -1,0 +1,75 @@
+/* .body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+.fullScreenFrame {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+} */
+
+.st-emotion-cache-1y4p8pa{
+    max-width: 100%;
+}
+
+
+.e1nzilvr1{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    /* justify-content: center; */
+    height: 100vh;
+    margin-left: 0;
+}
+.e1nzilvr4{
+    display: flex;
+    flex-direction: column;
+}
+
+.e1f1d6gn3{
+    text-align: center; 
+    vertical-align: middle;
+}
+#pituitary-tumor,#glioma-tumor,#meningioma-tumor,#no-tumor{
+    padding-top: 20%;
+}
+
+#uploaded-image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.st-emotion-cache-1y4p8pa{
+    padding: 0;
+
+}
+/* jpeg */
+.st-emotion-cache-1kyxreq.e115fcil2{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  /* margin-top: auto;
+  margin-bottom: auto; */
+  width: 50%;
+
+}
+/* .nii */
+.st-emotion-cache-1v0mbdj.e115fcil1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: auto;
+}
+
+
+.stSlider{
+    padding-top: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
