@@ -1,0 +1,13 @@
+gif==23.3.0
+matplotlib==3.8.3
+mpl_toolkits.clifford==0.0.3
+nibabel==5.2.1
+nilearn==0.10.3
+numpy==1.26.4
+opencv_python_headless==4.9.0.80
+Pillow==10.2.0
+plotly==5.19.0
+skimage==0.0
+streamlit==1.31.1
+tensorflow==2.15.0
+tensorflow_intel==2.15.0
