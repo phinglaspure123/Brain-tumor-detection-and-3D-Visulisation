@@ -10,4 +10,4 @@ plotly==5.15.0
 scikit-image==0.22.0
 streamlit==1.31.1
 tensorflow-cpu
-tensorflow_intel==2.15.0
+
